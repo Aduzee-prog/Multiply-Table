@@ -1,0 +1,13 @@
+body{
+    background:linear-gradient(rgba(0, 0, 0, 0.779), rgba(0, 0, 0, 0.200)), url(images/geometry-1044090_1280.jpg) ;
+    width: 100%;
+    height: 100vh;
+    
+
+}
+#show{
+    background-color: white !important;
+    border-radius: 20px;
+    margin: auto;
+     
+}
